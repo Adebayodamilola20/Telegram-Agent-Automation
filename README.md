@@ -1,5 +1,12 @@
 # Jarvis Telegram Bot - MacOS Automation
 
+![GitHub License](https://img.shields.io/github/license/adebayodamilola20/jarvis-telegram-bot?style=flat-square)
+![Python Version](https://img.shields.io/badge/python-3.12%2B-blue?style=flat-square)
+![GitHub Stars](https://img.shields.io/github/stars/adebayodamilola20/jarvis-telegram-bot?style=flat-square)
+![GitHub Forks](https://img.shields.io/github/forks/adebayodamilola20/jarvis-telegram-bot?style=flat-square)
+![GitHub Issues](https://img.shields.io/github/issues/adebayodamilola20/jarvis-telegram-bot?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/adebayodamilola20/jarvis-telegram-bot?style=flat-square)
+
 A powerful, LLM-driven MacOS automation system controlled via Telegram. Inspired by Iron Man's Jarvis, this bot allows you to remotely control your Mac using natural language, execute shell commands, run AppleScripts, and even perform vision-based automation for apps like WhatsApp.
 
 ## 🚀 Features
