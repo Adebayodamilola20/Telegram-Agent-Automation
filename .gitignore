@@ -1,0 +1,21 @@
+# Secrets
+.env
+
+# Environments
+venv/
+env/
+.venv/
+
+# Python logs and caches
+*.log
+bot.error.log
+bot.log
+bot_error_live.log
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+
+# Temporary files
+assets/fallback.png
